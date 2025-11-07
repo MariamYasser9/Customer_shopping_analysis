@@ -88,4 +88,4 @@ This project is part of my data analysis learning journey. Grateful for the guid
 ### 📬 Connect with Me
 If you’d like to discuss this project or collaborate:
 
-- 💼 [LinkedIn]()
+- 💼 [LinkedIn](https://www.linkedin.com/in/mariam-yasser1-/)
